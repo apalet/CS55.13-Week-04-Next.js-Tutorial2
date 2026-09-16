@@ -2,17 +2,6 @@
     import it in a page as `import styles from '../styles/Home.module.css'`
     then use className={styles.container}, styles.title, etc. */
 
-  /* Full-width intro card on the homepage (not the grid .card, which is half-width). */
-  .introCard {
-    width: 100%;
-    max-width: 900px;
-    background-color: #f3f8f5;
-    border: 0.5px solid #000;
-    border-radius: 12px;
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
-    padding: 1.25rem 1.5rem;
-  }
-
   /* Full-viewport column that centers the homepage content. */
   .container {
     min-height: 100vh;

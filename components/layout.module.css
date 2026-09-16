@@ -26,8 +26,7 @@
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    padding-top: 5rem;
-    padding-bottom: 2rem;
+    padding: 3rem;
   }
 
 /* Flex-grow the main area and center .introCard horizontally and vertically. */

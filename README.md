@@ -18,3 +18,9 @@ We suggest that you begin by typing:
   npm run dev
 
   You should keep the development server running, but if you want to restart it, hit Ctrl + c to stop the server.
+
+.md files:
+  You might have noticed that each markdown file has a metadata section at the top containing title and date. This is called YAML Front Matter, which can be parsed using a library called gray-matter.
+
+  installing gray-matter:
+    npm install gray-matter

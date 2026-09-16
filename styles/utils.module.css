@@ -29,6 +29,7 @@
 .headingMd {
   font-size: 1.2rem;
   line-height: 1.5;
+  margin: 1.5rem;
 }
 
 /* Makes a square image look circular (used on the profile photo on home and other pages). */
@@ -44,7 +45,7 @@
 }
 
 .padding1px {
-  padding-top: 1px;
+  padding: 1px;
 }
 
 /* Reset list bullets and spacing for a custom post list. */
